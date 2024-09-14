@@ -50,6 +50,7 @@ Rating: Customer's rating of their experience, likely on a numerical scale.
 - **Wrangling Report**: 
   - Details the data cleaning process, highlighting the issues addressed, such as missing values, data type corrections, and outlier handling.
 - **Business Report**:
+  - [View here](https://www.canva.com/design/DAGQppoxCak/PUg8JQ4wos9weK9OO2BupQ/view?utm_content=DAGQppoxCak&utm_campaign=designshare&utm_medium=link&utm_source=editor)
   - Summarizes the key findings from the analysis, including sales trends, customer behavior insights, and product line performance.
   - Provides actionable insights for strategic decision-making.
 
