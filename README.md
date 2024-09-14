@@ -6,8 +6,8 @@ The [dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data)
 
 ### Columns:
 Invoice ID: A unique identifier for each transaction or sale.
-Branch: The branch where the transaction took place (e.g., A, B, C).
-Yangon, Naypyitaw, Mandalay: Indicators or flags (likely binary) for which city the sale occurred in.
+Branch: The branch where the transaction took place
+Yangon, Naypyitaw, Mandalay: Indicators or flags for which city the sale occurred in.
 Customer Type: Indicates whether the customer is a "Normal" customer or a "Member."
 Gender: The gender of the customer ("Male" or "Female").
 Product Line: The category of products purchased (e.g., Health and Beauty, Food and Beverages).
